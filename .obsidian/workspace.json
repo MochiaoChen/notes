@@ -13,31 +13,90 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-18.md",
+                "file": "00Inbox/游戏人生.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2026-02-18"
+              "title": "游戏人生"
             }
-          }
-        ]
-      },
-      {
-        "id": "c838ebc965b5058e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b3fe05460dfdb1c5",
+            "id": "8e2f23417cd5a9c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "游戏人生附录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "游戏人生附录"
+            }
+          },
+          {
+            "id": "26db6d52f13ee5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "568f8eabf3efc5cb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "30Resources/多臂老虎机.pdf",
+                "page": 6,
+                "left": -9,
+                "top": 55,
+                "zoom": 1.6941176470588235
+              },
+              "icon": "lucide-file-text",
+              "title": "多臂老虎机"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,17 +169,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-02-18.md",
+                "file": "游戏人生附录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2026-02-18 的反向链接列表"
+              "title": "游戏人生附录 的反向链接列表"
             }
           },
           {
@@ -129,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-02-18.md",
+                "file": "游戏人生附录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-02-18 的出链列表"
+              "title": "游戏人生附录 的出链列表"
             }
           },
           {
@@ -172,21 +231,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-02-18.md",
+                "file": "游戏人生附录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-18 的大纲"
+              "title": "游戏人生附录 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +255,32 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "random-note:开始漫游笔记": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "media-extended:Open external media": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2702a39b5e7ebc6b",
+  "active": "f6fc9c70d51cd11e",
   "lastOpenFiles": [
-    "欢迎.md",
-    "2026-02-18.md"
+    "30Resources/多臂老虎机.pdf",
+    "游戏人生附录.md",
+    "00Inbox/游戏人生.md",
+    "2026-02-18.md",
+    "未命名.md",
+    "未命名 1.md",
+    "00Inbox/未命名 1",
+    "40Archived",
+    "30Resources",
+    "20Areas",
+    "10Projects",
+    "00Inbox",
+    "未命名",
+    "欢迎.md"
   ]
 }
