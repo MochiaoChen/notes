@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20Areas/游戏人生（Gamify life）/游戏人生.md",
+                "file": "70Draft/苏格拉底求爱.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "游戏人生"
+              "title": "苏格拉底求爱"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5a326e9f1bea1214",
@@ -215,7 +216,9 @@
   },
   "active": "dc3609ecbd40c905",
   "lastOpenFiles": [
+    "欢迎.md",
     "20Areas/游戏人生（Gamify life）/游戏人生.md",
+    "70Draft",
     "20Areas/Python讲义/目录.md",
     "20Areas/数学/数学方向笑话.md",
     "20Areas/权力/价值观审查与权力支配.md",
@@ -239,7 +242,6 @@
     "20Areas/权力",
     "未命名 3.md",
     "20Areas/读书",
-    "20Areas/文人游戏",
     "20Areas/skill/提问的艺术.md",
     "20Areas/宗教/不传教.md",
     "20Areas/ADHD/ADD &ADHD自救的50条建议.md",
@@ -249,7 +251,6 @@
     "20Areas/Python讲义/Python L1：条件语句 (Conditionals).md",
     "20Areas/Python讲义/Python L0：创建你的第一个程序 (Creating Code with Python).md",
     "10Projects/大学生心理辅导AI助手项目概述.md",
-    "未命名.md",
-    "20Areas/文人游戏/謎拾附谜学.md"
+    "70Draft/苏格拉底求爱.md"
   ]
 }
