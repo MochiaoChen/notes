@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Inbox/游戏人生.md",
+                "file": "20Areas/游戏人生（Gamify life）/游戏人生.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -32,12 +32,300 @@
             }
           },
           {
+            "id": "1865301fb142a51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/Python讲义/Python L0：创建你的第一个程序 (Creating Code with Python).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python L0：创建你的第一个程序 (Creating Code with Python)"
+            }
+          },
+          {
+            "id": "f7126d9ea672200e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/Python讲义/Python L1：条件语句 (Conditionals).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Python L1：条件语句 (Conditionals)"
+            }
+          },
+          {
+            "id": "2c57c1c31e26b539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50Essays/致傲翔.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "致傲翔"
+            }
+          },
+          {
+            "id": "3450c57df402df70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/后现代的人/原生家庭伤害：我们要无条件原谅父母吗？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "原生家庭伤害：我们要无条件原谅父母吗？"
+            }
+          },
+          {
+            "id": "5f1b7ab3b5bb6f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40Archived/有趣的小礼物.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "有趣的小礼物"
+            }
+          },
+          {
+            "id": "f7a1431bd0b24c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/权力/价值观审查与权力支配.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "价值观审查与权力支配"
+            }
+          },
+          {
+            "id": "4adbd1dea1da749e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/数学/数学方向笑话.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "数学方向笑话"
+            }
+          },
+          {
+            "id": "1be982ca69ed0d67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/宗教/不传教.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "不传教"
+            }
+          },
+          {
+            "id": "c70d4bc044174c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/skill/提问的艺术.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "提问的艺术"
+            }
+          },
+          {
+            "id": "002ea691e88922fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/读书/林彪读书法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "林彪读书法"
+            }
+          },
+          {
+            "id": "79b89c8f2ce33f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 2"
+            }
+          },
+          {
+            "id": "76d5f11db0b26cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20Areas/权力/价值观审查与权力支配.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "价值观审查与权力支配"
+            }
+          },
+          {
             "id": "8e2f23417cd5a9c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Inbox/游戏人生附录.md",
+                "file": "20Areas/游戏人生（Gamify life）/游戏人生附录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,28 +368,12 @@
             }
           },
           {
-            "id": "568f8eabf3efc5cb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "30Resources/多臂老虎机.pdf",
-                "page": 6,
-                "left": -9,
-                "top": 55,
-                "zoom": 1.6941176470588235
-              },
-              "icon": "lucide-file-text",
-              "title": "多臂老虎机"
-            }
-          },
-          {
             "id": "709bfdb8a9da0aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "謎拾附谜学.md",
+                "file": "20Areas/游戏人生（Gamify life）/The problem with gamifying life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -116,11 +388,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "謎拾附谜学"
+              "title": "The problem with gamifying life"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -177,8 +449,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a326e9f1bea1214",
@@ -256,13 +527,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "謎拾附谜学.md",
+                "file": "20Areas/权力/价值观审查与权力支配.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "謎拾附谜学 的大纲"
+              "title": "价值观审查与权力支配 的大纲"
             }
           }
         ],
@@ -270,7 +541,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,25 +560,46 @@
       "media-extended:Open external media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "709bfdb8a9da0aa2",
+  "active": "28d4c142eea7a666",
   "lastOpenFiles": [
-    "00Inbox/游戏人生附录.md",
-    "謎拾附谜学.md",
-    "30Resources/多臂老虎机.pdf",
-    "00Inbox/游戏人生.md",
-    "2026-02-18.md",
+    "20Areas/ADHD",
+    "20Areas/后现代的人",
+    "20Areas/skill",
+    "20Areas/未命名",
+    "20Areas/宗教",
+    "60杂谈",
+    "20Areas/权力",
+    "未命名 3.md",
+    "20Areas/读书",
+    "20Areas/文人游戏",
+    "未命名 2.md",
+    "20Areas/数学",
+    "20Areas/读书/林彪读书法.md",
+    "30Resources/商科生入学指南-zjy.pdf",
+    "20Areas/skill/提问的艺术.md",
+    "20Areas/宗教/不传教.md",
+    "20Areas/数学/数学方向笑话.md",
+    "20Areas/权力/价值观审查与权力支配.md",
+    "20Areas/ADHD/ADD &ADHD自救的50条建议.md",
+    "40Archived/有趣的小礼物.md",
+    "20Areas/后现代的人/原生家庭伤害：我们要无条件原谅父母吗？.md",
+    "50Essays/致傲翔.md",
+    "20Areas/Python讲义/Python L4 ：面向对象编程（OOP）.md",
+    "20Areas/Python讲义/Python L2：循环 (Loops).md",
+    "20Areas/Python讲义/Python L1：条件语句 (Conditionals).md",
+    "20Areas/Python讲义/Python L0：创建你的第一个程序 (Creating Code with Python).md",
+    "20Areas/游戏人生（Gamify life）/游戏人生.md",
+    "10Projects/大学生心理辅导AI助手项目概述.md",
+    "20Areas/游戏人生（Gamify life）/The problem with gamifying life.md",
+    "20Areas/游戏人生（Gamify life）/游戏人生附录.md",
     "未命名.md",
+    "20Areas/文人游戏/謎拾附谜学.md",
+    "2026-02-18.md",
     "未命名 1.md",
-    "00Inbox/未命名 1",
-    "40Archived",
-    "30Resources",
-    "20Areas",
-    "10Projects",
-    "00Inbox",
-    "未命名",
     "欢迎.md"
   ]
 }
