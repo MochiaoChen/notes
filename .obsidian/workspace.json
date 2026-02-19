@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "謎拾附谜学.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "謎拾附谜学"
             }
           }
         ],
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5a326e9f1bea1214",
@@ -255,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.md",
+                "file": "謎拾附谜学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 2 的大纲"
+              "title": "謎拾附谜学 的大纲"
             }
           }
         ],
@@ -293,7 +294,7 @@
   "active": "709bfdb8a9da0aa2",
   "lastOpenFiles": [
     "00Inbox/游戏人生附录.md",
-    "未命名 2.md",
+    "謎拾附谜学.md",
     "30Resources/多臂老虎机.pdf",
     "00Inbox/游戏人生.md",
     "2026-02-18.md",
