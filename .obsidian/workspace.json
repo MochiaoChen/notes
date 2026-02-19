@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏人生附录.md",
+                "file": "00Inbox/游戏人生附录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,9 +94,33 @@
               "icon": "lucide-file-text",
               "title": "多臂老虎机"
             }
+          },
+          {
+            "id": "709bfdb8a9da0aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "游戏人生附录.md",
+                "file": "未命名 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "游戏人生附录 的大纲"
+              "title": "未命名 2 的大纲"
             }
           }
         ],
@@ -266,10 +290,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f6fc9c70d51cd11e",
+  "active": "709bfdb8a9da0aa2",
   "lastOpenFiles": [
+    "00Inbox/游戏人生附录.md",
+    "未命名 2.md",
     "30Resources/多臂老虎机.pdf",
-    "游戏人生附录.md",
     "00Inbox/游戏人生.md",
     "2026-02-18.md",
     "未命名.md",
