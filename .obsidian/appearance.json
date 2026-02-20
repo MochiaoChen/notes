@@ -1,5 +1,7 @@
 {
   "monospaceFontFamily": "Maple Mono NF CN",
   "textFontFamily": "Georgia,宋体",
-  "interfaceFontFamily": "Google Sans"
+  "interfaceFontFamily": "Google Sans",
+  "cssTheme": "Baseline",
+  "accentColor": ""
 }
