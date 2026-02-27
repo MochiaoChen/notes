@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80Boooks/万万没想到：用理工科思维理解世界：精装增补版 (万维钢) (Z-Library)/content/Part Two　成功学的解药/思维密集度与牛人的反击.md",
+                "file": "50Essays/未命名 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "思维密集度与牛人的反击"
+              "title": "未命名 2"
+            }
+          },
+          {
+            "id": "ae3b45ed803888e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50Essays/未命名 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "39b6c4d1c578e09e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "50Essays/未命名 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名 2"
             }
           }
         ],
@@ -246,8 +294,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "28d4c142eea7a666",
+  "active": "42006b7ba5d72a26",
   "lastOpenFiles": [
+    "50Essays/录高中模考作文两篇.md",
+    "50Essays/未命名 2.md",
+    "50Essays/未命名 1.md",
+    "80Boooks/万万没想到：用理工科思维理解世界：精装增补版 (万维钢) (Z-Library)/content/Part Two　成功学的解药/思维密集度与牛人的反击.md",
     "00Inbox/秘书法.md",
     "10Projects/创业计划书大纲.md",
     "00Inbox/keep4o/讨好性.md",
@@ -270,10 +322,6 @@
     "80Boooks/中国礼宾与公务接待 (张建国) (Z-Library)/第二编 礼宾排名/第一章 礼宾排名概述/第一节 礼宾与礼宾排名的定义.md",
     "80Boooks/中国礼宾与公务接待 (张建国) (Z-Library)/第二编 礼宾排名/第一章 礼宾排名概述/第一章 礼宾排名概述.md",
     "80Boooks/中国礼宾与公务接待 (张建国) (Z-Library)/第二编 礼宾排名/第一章 礼宾排名概述/第三节 礼宾排名的主要依据及方法.md",
-    "80Boooks/中国礼宾与公务接待 (张建国) (Z-Library)/第一编 中国公务接待发展概况/第三章 历次全国公务接待工作会议/第四节 全国第三次招待工作会议.md",
-    "80Boooks/中国礼宾与公务接待 (张建国) (Z-Library)/Cover.md",
-    "80Boooks/中国礼宾与公务接待 (张建国) (Z-Library)/第一编 中国公务接待发展概况/第一章 新中国成立前的公务接待工作/第三节 西柏坡革命时期(1947.7—1949.9).md",
-    "80Boooks/中国礼宾与公务接待 (张建国) (Z-Library)/参考资料.md",
     "00Inbox/keep4o",
     "90Reading",
     "20Areas/读书笔记",
