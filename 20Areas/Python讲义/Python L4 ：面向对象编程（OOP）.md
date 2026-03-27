@@ -92,7 +92,8 @@ def get_student():
 
 
 if __name__ == "__main__":
-    main()```
+    main()
+```
 
 请注意，`(name, house)` 这种写法向阅读代码的任何人明确表示，我们将两个值打包在一个数据结构中返回。此外，我们可以使用索引 `student[0]` 或 `student[1]` 来访问元组中的元素。
 
