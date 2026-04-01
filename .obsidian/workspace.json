@@ -203,24 +203,10 @@
             "id": "2f3d82cdf5f298ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Inbox/女拳史/未命名 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "新标签页"
             }
           },
           {
@@ -289,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Inbox/计量 chap2.md",
+                "file": "00Daily/2026-03-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -304,11 +290,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "计量 chap2"
+              "title": "2026-03-30"
+            }
+          },
+          {
+            "id": "6806aa6be2a2b0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-04-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-01"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -495,38 +505,40 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "zhihu:Open Zhihu side view": false
     }
   },
-  "active": "fe4d447a2cdc454a",
+  "active": "2f3d82cdf5f298ec",
   "lastOpenFiles": [
-    "00Inbox/简单回归模型定义与术语.md",
-    "00Inbox/计量 chap2.md",
-    "00Daily/2026-03-26.md",
-    "00Inbox/云中哀辞.md",
-    "00Inbox/Lagrange 极致.md",
-    "00Daily/2026-03-22.md",
-    "00Inbox/女拳史/未命名 1.md",
-    "00Daily/2026-03-23.md",
-    "00Daily/2026-03-25.md",
-    "00Inbox/未命名.md",
-    "00Inbox/研究助理写作法.md",
-    "00Inbox/真实世界的信息学：为什么高手都喜欢「算力不足」？.md",
-    "00Inbox/女拳史/被侵犯的女性？.md",
+    "00Daily/2026-04-01.md",
+    "20Areas/经济学/承诺装置的绞刑架：索罗斯与港府博弈.md",
+    "00Inbox/色情表演到底是不是物化女性？.md",
+    "00Inbox/饕餮者.md",
+    "50Essays/菁青览：情感迟钝与道歉信.md",
+    "20Areas/科学/The Red Eyes Logic Puzzle.md",
+    "20Areas/科学/真实世界的信息学：为什么高手都喜欢「算力不足」？.md",
+    "20Areas/经济学/为什么单身狗吃不到便宜团购？餐厅的「价格歧视」与空间博弈.md",
+    "20Areas/后现代的人/女拳史/被侵犯的女性？.md",
+    "20Areas/后现代的人/女拳史/女性的一生是被激素控制的吗.md",
+    "20Areas/后现代的人/女拳史",
+    "20Areas/后现代的人/色情表演到底是不是物化女性？.md",
+    "20Areas/学习/Lagrange 极致.md",
+    "20Areas/学习/动态优化.md",
+    "20Areas/学习/L2：转化数据.md",
+    "20Areas/学习/L1：表示数据.md",
+    "20Areas/学习/计量 chap2.md",
+    "20Areas/学习/简单回归模型定义与术语.md",
+    "20Areas/学习/研究助理写作法.md",
+    "50Essays/大同食记.md",
+    "50Essays/昨夜泪沾巾.md",
+    "50Essays/云中哀辞.md",
+    "50Essays/苏轼的思念.md",
+    "50Essays/桃花记.md",
+    "50Essays/饕餮者.md",
+    "50Essays/「进步」的终局：当我们不再挨饿，我们该恐惧什么？.md",
+    "00Inbox/菁青览：情感迟钝与道歉信.md",
     "00Inbox/女拳史",
-    "00Inbox/菁青览：.md",
-    "00Inbox/桃花记.md",
-    "00Daily/2026-03-20.md",
-    "20Areas/Python讲义/Python L4 ：面向对象编程（OOP）.md",
-    "20Areas/Python讲义/Python L2：循环 (Loops).md",
-    "20Areas/Python讲义/Python L1：条件语句 (Conditionals).md",
-    "20Areas/Python讲义/Python L0：创建你的第一个程序 (Creating Code with Python).md",
-    "00Inbox/L2：转化数据.md",
-    "00Daily/2026-03-18.md",
-    "00Inbox/昨夜泪沾巾.md",
-    "00Daily/2026-03-13.md",
-    "00Inbox/动态优化.md",
-    "00Daily/2026-03-11.md",
     "Pasted image 20260301225630.png",
     "00Inbox/keep4o",
     "90Reading",
@@ -536,7 +548,6 @@
     "20Areas/CS",
     "20Areas/中国文学",
     "20Areas/互联网职场",
-    "20Areas/经济学",
     "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08654.jpeg",
     "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08653.jpeg",
     "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08652.jpeg",
