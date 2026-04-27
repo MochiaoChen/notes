@@ -8,7 +8,7 @@ tags:
 cover: /万万没想到：用理工科思维理解世界：精装增补版 (万维钢) (Z-Library)/images/cover00209.jpeg
 
 ---
-- [[内容简介|内容简介]]
+- [[80Boooks/万万没想到：用理工科思维理解世界：精装增补版 (万维钢) (Z-Library)/content/内容简介|内容简介]]
 - [[科学作家的理想|科学作家的理想]]
 - [[80Boooks/万万没想到：用理工科思维理解世界：精装增补版 (万维钢) (Z-Library)/content/目录|目录]]
 - [[Part One　反常识思维|Part One　反常识思维]]

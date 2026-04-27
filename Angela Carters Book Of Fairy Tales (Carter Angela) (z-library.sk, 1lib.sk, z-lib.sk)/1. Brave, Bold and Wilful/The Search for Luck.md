@@ -1,0 +1,41 @@
+   
+
+# [[Contents|THE SEARCH FOR LUCK]]
+
+# (GREEK)
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00007.jpeg)o go on and on with the story: there was an old woman and she had a hen. Like her the hen was well on in years and a good worker: every day she laid an egg. The old woman had a neighbour, an old man, a plague-stricken old fellow, and whenever the old woman went off anywhere he used to steal the egg. The poor old woman kept a lookout to catch the thief, but she could never succeed, nor did she want to make accusations against anyone, so she had the idea of going to ask the Undying Sun.
+
+As she was on the way she met three sisters: all three of them were old maids. When they saw her they ran after her to find out where she was going. She told them what her trouble had been. ‘And now,’ said she, ‘I am on my way to ask the Undying Sun and find out what son of a bitch this can be who steals my eggs and does such cruelty to a poor tired old woman.’ When the girls heard this they threw themselves upon her shoulders:
+
+‘O Auntie, I beg you, ask him about us; what is the matter with us that we can’t get married.’ ‘Very well,’ said the old woman. ‘I will ask him, and perhaps he may attend to what I say.’
+
+So she went on and on and she met an old woman shivering with cold. When the old woman saw her and heard where she was going, she began to entreat her: ‘I beg you, old woman, to question him about me too; what is the matter with me that I can never be warm although I wear three fur coats, all one on top of the other.’ ‘Very well,’ said the old woman, ‘I will ask him, but how can I help you?’
+
+So she went on and on and she came to a river; it ran turbid and dark as blood. From a long way off she heard its rushing sound and her knees shook with fear. When the river saw her he too asked her in a savage and angry voice where she was going. She said to him what she had to say. The river said to her: ‘If this is so, ask him about me too: what plague is this upon me that I can never flow at ease.’ ‘Very well, my dear river; very well,’ said the old woman in such terror that she hardly knew how to go on.
+
+So she went on and on, and came to a monstrous great rock; it had for very many years been hanging suspended and could neither fall nor not fall. The rock begged the old woman to ask what was oppressing it so that it could not fall and be at rest and passers-by be free from fear. ‘Very well,’ said the old woman, ‘I will ask him; it is not much to ask and I will take it upon me.’
+
+Talking in this way the old woman found it was very late and so she lifted up her feet and how she did run! When she came up to the crest of the mountain, there she saw the Undying Sun combing his beard with his golden comb. As soon as he saw her he bade her welcome and gave her a stool and then asked her why she had come. The old woman told him what she had suffered about the eggs laid by her hen: ‘And I throw myself at your feet,’ said she: ‘tell me who the thief is. I wish I knew, for then I should not be cursing him so madly and laying a burden on my soul. Also, please see here: I have brought you a kerchief full of pears from my garden and a basket full of baked rolls.’ Then the Undying Sun said to her: ‘The man who steals your eggs is that neighbour of yours. Yet see that you say nothing to him; leave him to God and the man will come by his deserts.’
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00008.jpeg)
+
+‘As I was on my way,’ said the old woman to the Undying Sun, ‘I came upon three girls, unmarried, and how they did entreat me! “Ask about us; what is the matter with us that we get no husbands.”’ ‘I know who you mean. They are not girls anyone will marry. They are like to be idle; they have no mother to guide them nor father either, and so it happens that every day they start and sweep the house out without sprinkling water and then use the broom and fill my eyes with dust and how sick I am of them! I can’t bear them. Tell them that from henceforth they must rise before dawn and sprinkle the house and then sweep, and very soon they will get husbands. You need have no more thought about them as you go your way.’
+
+‘Then an old woman made a request of me: “Ask him on my behalf what is the matter with me that I cannot keep warm although I wear three fur coats one on top of the other.”’ ‘You must tell her to give away two in charity for the sake of her soul and then she will keep warm.’
+
+‘Also I saw a river turbid and dark as blood; its flow entangled with eddies. The river requested me: “Ask him about me; what can I do to flow at ease?”’ ‘The river must drown a man and so it will be at ease. When you get there, first cross over the stream and then say what I have said to you; otherwise the river will take you as its prey.’
+
+‘Also I saw a rock: years and years have passed and all the time it has hung like this suspended and cannot fall.’ ‘This rock too must bring a man to death and thus it will be at ease. When you go there pass by the rock, and not till then, say what I have said to you.’
+
+The old woman arose and kissed his hand and said Farewell and went down from the mountain. On her way she came to the rock, and the rock was waiting for her coming as it were with five eyes. She made haste and passed beyond and then she said what she had been told to say to the rock. When the rock heard how he must fall and that to the death of a man, he grew angry; what to do he knew not. ‘Ah,’ said he to the old woman: ‘If you had told me that before, then I would have made you my prey.’ ‘May all my troubles be yours,’ said the old woman and she – pray excuse me – slapped her behind.
+
+On her way she came close to the river and from the roar it was making she saw how troubled it was and that it was just waiting for her to hear what the Undying Sun had said to her. She made haste and crossed over the stream, and then she said what he had told her. When the river heard this, it was enraged, and such was its evil mood that the water was more turbid than ever. ‘Ah,’ said the river, ‘why did I not know this? Then I would have had your life, you who are an old woman whom nobody wants.’ The old woman was so much frightened that she never turned round to look at the river.
+
+Before she had gone much farther she could see the reek coming up from the roofs of the village and the savour of cooking came across to her. She made no delay but went to the old woman, she who could never keep warm, and said to her what she had been told to say. The table was set all fresh and she sat down and ate with them: they had fine lenten fare and you would have eaten and licked your fingers, so good it was.
+
+Then she went to find the old maids. From the time the old woman had left them their minds had been on her; they were neither lighting the fire in their house nor putting it out: all the time they had their eyes on the road to see the old woman when she came by. As soon as the old woman saw them, she went and sat down and explained to them that they must do what the Undying Sun had told her to tell them. After this they rose up always when it was still night and sprinkled the floor and swept it, and then suitors began to come again, some from one place and some from another; all to ask them in marriage. So they got husbands and lived and were happy.
+
+As for the old woman who could never keep warm, she gave away two of her fur coats for the good of her soul and at once found herself warm. The river and the rock each took a man’s life and so they were at rest.
+
+When the old woman came back home she found the old man at the very gate of death. When she had gone off to find the Undying Sun he was so much frightened that a terrible thing happened to him: the hen’s feathers grew out of his face. No long time passed before he went off to that big village whence no man ever returns. After that the eggs were never missing and the old woman ate them until she died, and when she died the hen died too.

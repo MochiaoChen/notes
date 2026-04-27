@@ -1,0 +1,11 @@
+   
+
+# [[Contents|HOW A HUSBAND WEANED HIS WIFE FROM FAIRY TALES]]
+
+# (RUSSIAN)
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00120.jpeg)here was once an innkeeper whose wife loved fairy tales above all else and accepted as lodgers only those who could tell stories. Of course the husband suffered loss because of this, and he wondered how he could wean his wife away from fairy tales. One night in winter, at a late hour, an old man shivering with cold asked him for shelter. The husband ran out and said: ‘Can you tell stories? My wife does not allow me to let in anyone who cannot tell stories.’ The old man saw that he had no choice; he was almost frozen to death. He said: ‘I can tell stories.’ ‘And will you tell them for a long time?’ ‘All night.’
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00121.jpeg)
+
+So far, so good. They let the old man in. The husband said: ‘Wife, this peasant has promised to tell stories all night long but only on condition that you do not argue with him or interrupt him.’ The old man said: ‘Yes, there must be no interruptions, or I will not tell any stories.’ They ate supper and went to bed. Then the old man began: ‘An owl flew by a garden, sat on a tree trunk, and drank some water. An owl flew into a garden, sat on a tree trunk, and drank some water.’ He kept on saying again and again: ‘An owl flew into a garden, sat on a tree trunk, and drank some water.’ The wife listened and listened and then said: ‘What kind of story is this? He keeps repeating the same thing over and over!’ ‘Why do you interrupt me? I told you not to argue with me! That was only the beginning; it was going to change later.’ The husband, upon hearing this – and it was exactly what he wanted to hear – jumped down from his bed and began to belabor his wife: ‘You were told not to argue, and now you have not let him finish his story!’ And he thrashed her and thrashed her, so that she began to hate stories and from that time on forswore listening to them.

@@ -1,0 +1,13 @@
+   
+
+# [[Contents|THE FURBURGER]]
+
+# (NORTH AMERICAN)
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00051.jpeg) lady went into a pet shop to buy a rare exotic animal, one that no one else had. When she told the storekeeper what she wanted, he proceeded to show her everything that he had in the line of rare and exotic animals. After much distress, the lady hadn’t found anything quite unusual enough to suit her taste. She made one last plea to the storekeeper. Out of desperation, the storekeeper said, ‘I do have one animal left that you haven’t seen yet; however, I am somewhat reluctant to show it to you.’ ‘Oh, please do,’ cried the lady.
+
+So the storekeeper went back into the backroom of the store, and after a little bit returned with a cage. Putting the cage on the counter, the storekeeper proceeded to open the cage and take out the animal and set it on the counter. The lady looked, but all she saw was a piece of fur, not a head or a tail, no eyes, nothing. ‘What in the world is that thing?’ said the lady. ‘It’s a furburger,’ said the storekeeper very nonchalantly. ‘But what does it do?’ asked the lady. ‘Watch very carefully, madam,’ said the storekeeper. Then the storekeeper looked down at the furburger and said, ‘Furburger, the wall!’ And immediately the animal flew over and hit the wall like a ton of bricks, completely destroying the wall and leaving nothing but dust. Then, just as swiftly as before, the furburger flew back and sat on the counter again. Then the storekeeper said, ‘Furburger, the door!’ And immediately the animal flew over and hit the door like a ton of bricks, completely demolishing the entire door and doorframe. Then, just as quickly as before, the furburger flew back and sat on the counter.
+
+‘I’ll take it,’ said the lady. ‘All right, if you really want it,’ said the storekeeper. And so, as the lady was leaving the store with her fur-burger, the storekeeper said, ‘Pardon me, ma’am, but what are you going to do with your furburger?’ And the lady looked back and said, ‘Well, I’ve been having trouble with my husband lately, and so tonight when I get home, I’m going to put the furburger in the middle of the kitchen floor. And when my husband comes home from work, he will come in the door and look down and say to me, “What in the hell is that?” and I’m going to say, “Why, dear, that’s a furburger.” And my husband will look at me and say, “Furburger, my ass!”’
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00052.jpeg)

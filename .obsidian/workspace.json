@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e566b9b9665e7b19",
+        "id": "933cf65acd50ca38",
         "type": "tabs",
         "children": [
           {
-            "id": "f03d194a4f09ae3e",
+            "id": "982f8a13c08186d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Daily/2026-03-11.md",
+                "file": "00Inbox/安静.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,297 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-11"
-            }
-          },
-          {
-            "id": "c08d1ee73e895572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-13"
-            }
-          },
-          {
-            "id": "301af75387d82c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20Areas/读书/思维密集度与牛人的反击 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "思维密集度与牛人的反击 1"
-            }
-          },
-          {
-            "id": "188c76e7238f7241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-18"
-            }
-          },
-          {
-            "id": "e133847251b54c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-20"
-            }
-          },
-          {
-            "id": "fcd02dec0ad4eeef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-22"
-            }
-          },
-          {
-            "id": "0ff13628dcb7e053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-22"
-            }
-          },
-          {
-            "id": "f49093f8e1f4e63e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-23"
-            }
-          },
-          {
-            "id": "2f3d82cdf5f298ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "7cb294650c2082ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-26"
-            }
-          },
-          {
-            "id": "836566740dfb60f3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
-            }
-          },
-          {
-            "id": "ccc471d7958a2ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-26"
-            }
-          },
-          {
-            "id": "fe4d447a2cdc454a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-03-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-30"
-            }
-          },
-          {
-            "id": "6806aa6be2a2b0d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00Daily/2026-04-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-01"
+              "title": "安静"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -328,29 +41,8 @@
     "type": "split",
     "children": [
       {
-        "id": "364bd2104d7525ef",
-        "type": "tabs",
-        "dimension": 75.27812113720643,
-        "children": [
-          {
-            "id": "28d4c142eea7a666",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          }
-        ]
-      },
-      {
         "id": "ad2a4a63f603f58a",
         "type": "tabs",
-        "dimension": 24.721878862793574,
         "children": [
           {
             "id": "cdb47b3626a6d4b9",
@@ -378,8 +70,22 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "28d4c142eea7a666",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -509,53 +215,53 @@
       "zhihu:Open Zhihu side view": false
     }
   },
-  "active": "2f3d82cdf5f298ec",
+  "active": "982f8a13c08186d7",
   "lastOpenFiles": [
-    "00Daily/2026-04-01.md",
-    "20Areas/经济学/承诺装置的绞刑架：索罗斯与港府博弈.md",
-    "00Inbox/色情表演到底是不是物化女性？.md",
-    "00Inbox/饕餮者.md",
-    "50Essays/菁青览：情感迟钝与道歉信.md",
-    "20Areas/科学/The Red Eyes Logic Puzzle.md",
-    "20Areas/科学/真实世界的信息学：为什么高手都喜欢「算力不足」？.md",
-    "20Areas/经济学/为什么单身狗吃不到便宜团购？餐厅的「价格歧视」与空间博弈.md",
-    "20Areas/后现代的人/女拳史/被侵犯的女性？.md",
-    "20Areas/后现代的人/女拳史/女性的一生是被激素控制的吗.md",
-    "20Areas/后现代的人/女拳史",
-    "20Areas/后现代的人/色情表演到底是不是物化女性？.md",
-    "20Areas/学习/Lagrange 极致.md",
-    "20Areas/学习/动态优化.md",
-    "20Areas/学习/L2：转化数据.md",
-    "20Areas/学习/L1：表示数据.md",
-    "20Areas/学习/计量 chap2.md",
-    "20Areas/学习/简单回归模型定义与术语.md",
-    "20Areas/学习/研究助理写作法.md",
-    "50Essays/大同食记.md",
-    "50Essays/昨夜泪沾巾.md",
-    "50Essays/云中哀辞.md",
-    "50Essays/苏轼的思念.md",
-    "50Essays/桃花记.md",
-    "50Essays/饕餮者.md",
-    "50Essays/「进步」的终局：当我们不再挨饿，我们该恐惧什么？.md",
-    "00Inbox/菁青览：情感迟钝与道歉信.md",
-    "00Inbox/女拳史",
-    "Pasted image 20260301225630.png",
-    "00Inbox/keep4o",
-    "90Reading",
-    "20Areas/读书笔记",
-    "20Areas/科学",
-    "20Areas/计算机",
-    "20Areas/CS",
-    "20Areas/中国文学",
-    "20Areas/互联网职场",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08654.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08653.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08652.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08651.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08649.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08650.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08648.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08647.jpeg",
-    "80Boooks/牛津通识读本百本纪念套装（共100册）（全球精英学者撰写的通识文库，被誉为真正的“大家小书”，... (Z-Library)/images/image08646.jpeg"
+    "00Inbox/00：目录.md",
+    "00Inbox/断裂的镜像.md",
+    "00Daily/2026-04-09.md",
+    "00Inbox/寻菁记2.md",
+    "00Inbox/算学与词章.md",
+    "00Daily/2026-04-19.md",
+    "00Inbox/寻菁记.md",
+    "20Areas/R/L2：转换数据 (Transforming Data).md",
+    "20Areas/R/00：目录 (Table of Contents).md",
+    "00Inbox/D哥传.md",
+    "00Daily/2026-04-17.md",
+    "00Inbox/有若考.md",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/第三部分 研究方法篇.md",
+    "00Inbox/与菁的第一次长谈.md",
+    "00Daily/2026-04-10.md",
+    "00Inbox/薛平贵别传.md",
+    "00Inbox/长安与五道口.md",
+    "00Inbox/未命名 5.md",
+    "00Daily/2026-04-20.md",
+    "00Inbox/证明自己不是AI.md",
+    "00Inbox/一个人独立思考时，需要与他人一起思考吗.md",
+    "00Daily/2026-04-21.md",
+    "00Daily/2026-04-22.md",
+    "00Daily/2026-04-25.md",
+    "00Daily/2026-04-27.md",
+    "00Inbox/HPP茶叶类行业.md",
+    "00Inbox/断裂的镜像",
+    "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102020OilAndGasExplorationAndProduction",
+    "20Industry/10Energy/1010Energy/101010EnergyEquipmentAndServices/10101020OilAndGasEquipmentAndServices",
+    "20Industry/10Energy/1010Energy/101010EnergyEquipmentAndServices/10101010OilAndGasDrilling",
+    "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102050CoalAndConsumableFuels",
+    "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102040OilAndGasStorageAndTransportation",
+    "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102030OilAndGasRefiningAndMarketing",
+    "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102010IntegratedOilAndGas",
+    "20Industry/10Energy/1010Energy/101010EnergyEquipmentAndServices",
+    "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_226.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_218.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_225.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_224.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_223.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_221.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_222.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_220.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_219.jpg",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_217.jpg"
   ]
 }

@@ -1,0 +1,27 @@
+   
+
+# [[Contents|AUNT KATE’S GOOMER - DUST]]
+
+# (NORTH AMERICAN: OZARKS)
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00043.jpeg)ne time there was a farm boy named Jack and he wanted to marry a rich girl that lived in town, but her pappy was against it. ‘Listen, Minnie,’ says the old man, ‘this feller ain’t house-broke, scarcely! He’s got cowdung on his boots! He cain’t even write his own name!’ Minnie didn’t turn no answer, but she knowed what Jack could do, and it suited her fine. Booklearning is all right, but it ain’t got nothing to do with picking out a good husband. Minnie had done made up her mind to marry Jack, no matter what anybody said.
+
+Jack wanted to run off and get married regardless, but Minnie says no, because she don’t figure on being poor all her life. She says we got to make Pappy give us a big farm with a good house on it. Jack he just laughed, and they didn’t do no more talking for awhile. Finally he says well, I’ll go out to Honey Mountain tomorrow, and see what Aunt Kate thinks.
+
+Aunt Kate knowed a lot of things that most folks never heard tell of. Jack told her what a fix him and Minnie was in, but Aunt Kate says she can’t do nothing without silver. So Jack gave her two dollars, and it was all the money he had. Then she fetched him a little box like a pepper-duster, with some yellow powder in it. ‘That’s goomer-dust,’ she says. ‘Don’t get it on you, and be careful not to get none on Minnie. But you tell her to sprinkle a little on her pappy’s pants.’
+
+Late that night Minnie dusted some powder on the old man’s britches, where he had hung ’em on the bedpost. Next morning he broke wind right at breakfast, so loud it rattled the pictures on the wall and scared the cat plumb out of the kitchen. The old man thought it must be something he et. But pretty soon he ripped out another one, and it wasn’t no time at all till he was making so much noise that Minnie shut the windows for fear the neighbours would hear it. ‘Ain’t you goin’ down to the office, Pappy?’ says she. But just then the old man turned loose the awfullest blow-out a body ever heard, and he says, ‘No, Minnie. I’m going to bed. And I want you should fetch Doc Holton right away.’
+
+When Doc got there Pappy was feeling better, but pretty white and shaky. ‘Soon as I got in bed the wind died down,’ he says, ‘but it was terrible while it lasted,’ and he told Doc all about what happened. Doc examined Pappy a long time and give him some medicine to make him sleep. Minnie follered Doc out on the porch, and Doc says, ‘Did you hear them loud noises he keeps talkin’ about, like somebody breakin’ wind?’ Minnie says no, she didn’t hear nothing like that. ‘Just as I thought,’ says Doc. ‘He just imagined the whole thing. There ain’t nothing wrong with your pappy, only his nerves.’
+
+Pappy slept pretty good, on account of the medicine Doc give him. But next morning, soon as he got up and put his clothes on, he begun to break wind worse than ever. Finally he fired off a blast that sounded like a ten-bore shotgun, so Minnie helped him back in bed and sent for the doctor. Doc give him a shot in the arm this time. ‘Keep that man in bed,’ says he, ‘till I get Doctor Culberson to come over and look at him.’ Both of them doctors examined Pappy from head to foot, but they couldn’t find nothing wrong with him. They just shuck their heads, and give him some more sleeping medicine.
+
+Things went along like that for three days a-running, and finally Doc says Pappy better stay in bed all the time for awhile, and take medicine every four hours, and maybe he would be happier in a institution. ‘Put me in the asylum, just because I got wind on the guts?’ yelled Pappy. And with that he begun to raise such a row the doctor had to give him another shot in the arm.
+
+Next morning Pappy set up in bed a-hollering how the doctors are all damn fools, and Minnie says she knows a fellow that can cure him in five minutes. Pretty soon Jack come a-walking in. ‘Yes, I can cure you easy,’ he says, ‘but you got to let me and Minnie get married, and give us one of them big farms.’ Pappy wouldn’t even speak to Jack. ‘If this halfwit cures me,’ he says to Minnie, ‘you can have any goddam thing you want.’ Minnie walked over and stirred up the coals in the fireplace. Soon as it got to burning good, Jack took the tongs and throwed Pappy’s britches right in the fire.
+
+When Pappy seen them pants a-burning he was plumb speechless. He just laid there weak as a cat, and Jack marched out like a regular doctor. But after while the old man got up and put on his Sunday clothes. He never broke wind, neither. Minnie fixed him a fine breakfast, and he et every bite of it and never even belched. Then he walked round the house three times, without feeling no gas on his innards. ‘Well, by God,’ he says, ‘I believe to my soul that damn fool did cure me!’ On the way down town he stopped in to see Doc Holton. ‘I finally got well, without no thanks to you,’ says he. ‘If you had your way, I’d be in the crazy-house this minute!’
+
+Soon as he got Doc told, Pappy went over to the bank and deeded his best farm to Minnie. He give her some money to buy horses and cows and machinery. And so her and Jack got married, and they done all right. Some folks say they lived happy ever after.
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00044.jpeg)

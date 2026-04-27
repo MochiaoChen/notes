@@ -1,0 +1,87 @@
+   
+
+# [[Contents|THE LITTLE OLD WOMAN WITH FIVE COWS]]
+
+# (YAKUT)
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00178.jpeg)ne morning a little old woman got up and went to the field containing her five cows. She took from the earth a herb with five sprouts and, without breaking either root or branch, carried it home and wrapped it in a blanket and placed it on her pillow.
+
+Then she went out again and sat down to milk her cows. Suddenly she heard tambourine bells jingle and scissors fall, on account of which noise she upset the milk. Having run home and looked, she found that the plant was uninjured. Again she issued forth to milk the cows, and again thought she heard the tambourine bells jingle and scissors fall, and once more she spilt her milk. Returning to the house, she looked into the bedchamber. There sat a maiden with eyes of chalcedony and lips of dark stone, with a face of light-coloured stone and with eyebrows like two dark sables stretching their forefeet towards each other; her body was visible through her dress; her bones were visible through her body; her nerves spreading this way and that, like mercury, were visible through her bones. The plant had become this maiden of indescribable beauty.
+
+Soon afterwards Kharjit-Bergen, son of the meritorious Khan Kara, went into the dark forest. He saw a grey squirrel sitting on a curved twig, near the house of the little old woman with five cows, and he began to shoot, but as the light was bad, for the sun was already setting, he did not at once succeed in his purpose. At this time one of his arrows fell into the chimney.
+
+‘Old woman! take the arrow and bring it me!’ he cried, but received no answer. His cheeks and forehead grew flushed and he became angry; a wave of arrogance sprang from the back of his neck, and he rushed into the house.
+
+When he entered and saw the maiden he lost consciousness. But he revived and fell in love. Then he went out and, jumping on his horse, raced home at full gallop. ‘Parents!’ said he, ‘there is such a beautiful maiden at the house of a little old woman with five cows! Get hold of this maiden and give her to me!’
+
+The father sent nine servants on horseback, and they galloped at full speed to the house of the little old woman with five cows. All the servants became unconscious when they beheld the maiden’s beauty. However, they recovered, and all went away except the best one of them.
+
+‘Little old woman!’ said he, ‘give this girl to the son of the meritorious Khan Khara!’
+
+‘I will give her,’ was the answer.
+
+They spoke to the maiden. ‘I will go,’ she announced.
+
+‘Now, as the bridegroom’s wedding gift,’ said the old woman, ‘drive up cattle, and fill my open fields with horses and horned stock!’
+
+Immediately the request was uttered and before the agreement was concluded the man gave an order to collect and drive up the animals as the bridegroom’s gift.
+
+‘Take the maiden and depart!’ said the little old woman, when the stock of horses and cattle had been given as arranged.
+
+The maiden was quickly adorned, and a finely speckled horse that spoke like a human being was led up to her skilfully. They put on it a silver halter, saddled it with a silver saddle, which was placed over an upper silver saddle-cloth and a lower silver saddle-cloth, and they attached a little silver whip. Then the son-in-law led the bride from the mother’s side by the whip, mounted his horse and took the bride home.
+
+They went along the road, and the young man said, ‘In the depth of the forest there is a trap for foxes; I will go there. Proceed along this road! It divides into two paths. On the road leading to the east is hanging a sable skin. But on the road leading to the west there should be the skin of a male bear with the paws and head and with white fur at the neck. Go on the path where the sable skin is hanging.’ He pointed out the road and went away.
+
+The girl made her way to the fork in the road, but on coming to it forgot the directions. Going along the path where the bear skin was hanging, she reached a small iron hut. Suddenly out of the hut came a devil’s daughter, dressed in an iron garment above the knee. She had only one leg, and that was twisted; a single bent hand projected from below her breast, and her single furious eye was situated in the middle of her forehead. Having shot forth a fifty-foot iron tongue on to her breast, she pulled the girl from the horse, dropped her to the ground and tore all the skin from her face and threw it on her own face. She dragged off all the girl’s finery and put it on herself. Then mounting, the devil’s daughter rode away.
+
+The husband met the devil’s daughter when she arrived at the house of the meritorious Khan Khara. Nine youths came to take her horse by the halter; eight maidens did likewise. It is said that the bride wrongly fastened her horse to the willow tree where the old widow from Semyaksin used to tether her spotted ox. The greater part of those who thus received the bride became sorely depressed and the remainder were disenchanted; sorrow fell on them.
+
+All who met the bride abominated her. Even the red weasels ran away from her, thus showing she was repugnant to them. Grass had been strewn on the pathway up to her hut, and on this grass she was led by the hand. Having entered, she replenished the fire with the tops of three young larch trees. Then they concealed her behind a curtain, while they themselves also drank and played and laughed and made merry.
+
+But the marriage feast came to an end, and there was a return to ordinary life The little old woman with five cows, on going into open country to seek her cows, found that the plant with five sprouts was growing better than usual. She dug it up with its roots and, carrying it home, wrapped it up and placed it on her pillow. Then she went back and began to milk the cows, but the tambourine with the bells began to tinkle, and the scissors fell with a noise. Going back to the house, the old woman found the lovely maiden seated and looking more lovely than ever.
+
+‘Mother,’ she said, ‘my husband took me away from here. My dear husband said, “I must go away on some business,” but before he went he said, “Walk along the path where the sable’s skin is hanging, and do not go where the bear’s skin is hanging.” I forgot and went along the second path to a little iron house. A devil’s daughter tore the skin from my face and put it on her own face; she dragged off all my fine things and put them on; and next this devil’s daughter mounted my horse and set out. She threw away skin and bones and a grey dog seized my lungs and heart with his teeth and carried them to open country. I grew here as a plant, for it was decreed that I should not die altogether. Perhaps it has been settled that later I shall bear children. The devil’s daughter has affected my fate, for she has married my husband and contaminated his flesh and blood; she has absorbed his flesh and blood. When shall I see him?’
+
+The meritorious Khan Khara came to the field belonging to the little old woman with five cows. The speckled white horse, who was endowed with human speech, knew that his mistress had revived, and he began to speak.
+
+He complained to Khan Khara thus: ‘The devil’s daughter has killed my mistress, torn all the skin from her face and covered her own face with it; she has dragged away my mistress’s finery and clothed herself in it. The devil’s daughter has gone to live with Khan Khara’s son and become his bride. But my mistress has revived and now lives. If your son does not take this fair girl as his bride, then I will complain to the white Lord God on his seat of white stone, by the lake that has silver waves and golden floating ice, and blocks of silver and black ice; and I will shatter your house and your fire, and will leave you no means of living. A divine man must not take a devil’s daughter. Fasten this devil’s-daughter bride to the legs of a wild horse. Let a stream of rushing water fall on your son and cleanse him during thirty days; and let the worms and reptiles suck away his contaminated blood. Afterwards draw him from the water and expose him to the wind on the top of a tree for thirty nights, so that breezes from the north and from the south may penetrate his heart and liver, and purify his contaminated flesh and blood. When he is cleansed let him persuade and retake his wife!’
+
+The khan heard and understood the horse’s words. It is said he threw aside tears from both eyes; then he galloped home. On seeing him the bride changed countenance.
+
+‘Son!’ said Khan Khara, ‘whence and from whom did you take your wife?’
+
+‘She is the daughter of the little old woman with five cows.’
+
+‘What was the appearance of the horse on which you brought her? What kind of woman did you bring? Do you know her origin?’
+
+To these questions the son answered, ‘Beyond the third heaven, in the upper region which has the white stone seat is the white God; his younger brother collected migratory birds and united them into one society. Seven maidens, his daughters in the form of seven cranes, came to earth and feasted and entered a round field and danced; and an instructress descended to them. She took the best of the seven cranes and said, “Your mission is to go out to people; to be a Yakut on this middle land; you must not dislike this impure middle land! You are appointed worthy of the son of the meritorious Khan Khara and are to wear a skin made of eight sables. On account of him you will become human and bear children, and bring them up.” After speaking she cut off the end of the crane’s wings. The maiden wept. “Turn into a mare’s tail-grass, and grow!” said the instructress; “A little old woman with five cows will find the herb and turn it into a maiden and give her in marriage to Khan Khara’s son.” I took her according to this direction and as she was described to me; but I accepted a strange being; in reality, as appears to me, I took nothing!’
+
+After his son’s reply the khan said, ‘Having seen and heard, I have come. The speckled horse with the human voice has complained to me. When you bore away your wife you spoke to her of a forked road. You said, “On the eastern path there is hanging a sable’s skin and on the western path a bear’s skin.” You said, “Do not go on the path with the bear’s skin, but go along the path showing a sable skin!” But she forgot, and passed along the path which had a bear’s skin. She reached the iron house and then a devil’s daughter jumped out to meet her, dragged her from her horse and threw her down, tore the whole of the skin from her face and placed it on her own face. The devil’s daughter dressed herself in the girl’s finery and silver ornaments and rode hither as a bride. She fastened the horse to the old willow; it is already a mark. “Attach the devil’s daughter to the feet of a wild stallion!” said the horse to me, “and wash your son in a swift stream for a whole month of thirty nights; let worms and reptiles suck away his contaminated body and blood. Carry him away and expose him to the breeze on the top of a tree during a month of thirty nights. Let the breezes search him from the north and from the south; let it blow through his heart and liver!” said the horse to me. “Let him go and persuade his wife and take her! But away with this woman! Do not show her! She will devour people and cattle. If you do not get rid of her,” said the horse, “I will complain to the white God.”
+
+On hearing this the son became much ashamed, and a workman called Boloruk seized the bride, who was sitting behind a curtain, and, dragging her by the foot, fastened her on the legs of a wild horse. The horse kicked the devil’s daughter to pieces and to death. Her body and blood were attacked on the ground by worms and reptiles, and became worms and reptiles moving about till the present time. After being placed in a stream of rushing water the khan’s son was placed on a tree, so that the spring breezes coming from the north and from the south blew through him. Thus his contaminated body and blood were purified and, when he was brought home, dried up and scarcely breathing, only his skin and bones remained.
+
+He rode to the region of the wedding gift as before and, having picketed his horse, dismounted at his mother-in-law’s house. The little old woman who owned the five cows fluttered out joyfully; she rejoiced as if the dead had come to life and the lost had been found. From the picketing spot to the tent she strewed green grass and spread on the front bed a white horse-skin with hoofs. She killed a milch cow and a large-breasted mare and made a wedding feast.
+
+The girl approached her husband with tears. ‘Why have you come to me?’ she asked. ‘You spilt my dark blood, you cut my skin deeply. You gave me up as food for dogs and ducks. You gave me to the daughter of an eight-legged devil. After that, how can you seek a wife here? Girls are more numerous than perch, and women than grayling; my heart is wounded and my mind is agitated! I will not come!’
+
+‘I did not send you to the daughter of an eight-legged devil and when I went away on an important matter I pointed out your path. I did not knowingly direct you to a perilous place and I did not know what would happen when I said to you “Go and meet your fate!” The lady-instructress and protectress, the creatress, chose you and appointed you for me; therefore you revived and are alive,’ he said; ‘and whatever may happen, good or ill, I shall unfailingly take you!’
+
+The little old woman with five cows wiped aways tears from both eyes and sat down between these two children. ‘How is it that, having met, you do not rejoice when you have returned to life after death, and been found after having been lost? Neither of you must oppose my will!’
+
+The maiden gave her word, but said ‘Agreed!’ unwillingly. Then the young man sprang up and danced and jumped and embraced and kissed and drew in his breath. The couple played the best games and burst into loud laughter and talked unceasingly. Outside they fastened the speckled horse that spoke like a human being, laid on him the silver saddle-cloth, saddled him with the silver saddle, bridled him with the silver bridle, hung on him the silver saddle bags and attached to him the little silver whip.
+
+When the maiden had been dressed and all was complete on her she was sent off. She and her husband knew as they went along that it was winter by the fine snow that was falling; they knew it was summer by the rain; they knew it was autumn by the fog.
+
+The servants from the nine houses of Khan Khara, the house servants from eight houses and the room attendants from seven houses, and nine lords’ sons who came out like nine cranes thought, ‘How will the bride arrive? Will she march out or will she saunter? And will sables arise from her footsteps?’
+
+Thinking thus, they prepared arrows so vigorously that the skin came off their fingers; they attended so closely to their work that their sight became dull. Seven grown-up daughters like seven cranes, born at one time, twisted threads so that the skin came from their knees, and said, ‘If, when the bride comes, she blows her nose loudly, dear little kings will be plentiful.’
+
+The son arrived with his bride, and two maidens took their horses by the bridle at the picket rope. The son and his bride dismounted and she blew her nose; therefore dear little kings would come! Instantly the women began to weave garments. Sables ran along the place from which the bride stepped forward, and some of the young men hastened into the dark forest to shoot them.
+
+From the foot of the picketing post to the tent the way had been spread with green grass. On arriving, the bride kindled the fire with three branches of larch. Then they hid her behind a curtain. They stretched a strap in nine portions and tied to it ninety white speckled foals. On the right side of the house they thrust into the ground nine posts and fastened to them nine white foals and put on the foals nine friendly sorcerers who drank kumyss. On the left side of the house they set up eight posts.
+
+Wedding festivities were begun in honour of the bride’s entry into the home. Warriors collected and experts came together. It is said that nine ancestral spirits came from a higher place and twelve ancestral spirits rose from the ground. It is said that nine tribes came from under the ground and, using whips of dry wood, trotted badly. Those having iron stirrups crowded together and those having copper stirrups went unsteadily.
+
+All had collected from the foreign tribes and from the tents of the nomad villages; there were singers, there were dancers, there were storytellers; there were those who jumped one on foot and there were leapers; there were crowds possessing five-kopeck pieces, there were saunterers. Then the dwellers-on-high flew upwards; those dwelling in the lower regions sank into the earth; and inhabitants of the middle region, the earth, separated and walked away. The litter remained till the third day; but before the morrow most of the fragments had been collected, all animals had been enclosed and children were sporting in the place. Their descendants are said to be alive today.
+
+![Illustration](/Angela%20Carters%20Book%20Of%20Fairy%20Tales%20(Carter%20Angela)%20(z-library.sk,%201lib.sk,%20z-lib.sk)/images/00179.jpeg)

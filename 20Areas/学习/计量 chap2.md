@@ -152,7 +152,7 @@ $$
 \hat{\beta}_0=\bar{y}-\hat{\beta}_1\bar{x}
 $$
 
-#### 第二步：对 β^​1​ 求偏导
+#### 第二步：对 $β^​1$​ 求偏导
 
 $$
 \frac{\partial}{\partial\hat{\beta}_1}\sum_{i=1}^n(y_i-\hat{\beta}_0-\hat{\beta}_1x_i)^2=-2\sum_{i=1}^nx_i(y_i-\hat{\beta}_0-\hat{\beta}_1x_i)=0
