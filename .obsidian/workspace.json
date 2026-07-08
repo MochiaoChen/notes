@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "982f8a13c08186d7",
+            "id": "367068abed204043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00Inbox/安静.md",
+                "file": "00Inbox/TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,659 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "安静"
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "975dda16bc5d0be3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-04-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-30"
+            }
+          },
+          {
+            "id": "f1053142d15d3245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Inbox/断裂的镜像.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "断裂的镜像"
+            }
+          },
+          {
+            "id": "3582a23bedf70bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-12"
+            }
+          },
+          {
+            "id": "40690b6820c5f952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Inbox/知乎 api 手册.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "知乎 api 手册"
+            }
+          },
+          {
+            "id": "c31102a4f8efec32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-15"
+            }
+          },
+          {
+            "id": "f90473e9bfed062b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-19"
+            }
+          },
+          {
+            "id": "01df82661125e353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-18"
+            }
+          },
+          {
+            "id": "184e013ba3427a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-19"
+            }
+          },
+          {
+            "id": "40248590d5d0affb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-19"
+            }
+          },
+          {
+            "id": "c3bb6d1bf289fc4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Inbox/SP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SP"
+            }
+          },
+          {
+            "id": "1d6cad6db5d2ef2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-24"
+            }
+          },
+          {
+            "id": "4e21626afc4a75c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-25"
+            }
+          },
+          {
+            "id": "bdc3dd366512ce9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-25"
+            }
+          },
+          {
+            "id": "d5853eafebbaa71c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Inbox/Marcus 的创业 notes 1 ：如何寻找赛道.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Marcus 的创业 notes 1 ：如何寻找赛道"
+            }
+          },
+          {
+            "id": "c1461f44674ba134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-27.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-27"
+            }
+          },
+          {
+            "id": "81d2192543c1d324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/第一部分 行研框架篇.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "第一部分 行研框架篇"
+            }
+          },
+          {
+            "id": "f5c0c55253548406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-28"
+            }
+          },
+          {
+            "id": "4418203c18972c48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-05-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-28"
+            }
+          },
+          {
+            "id": "ab02a86a18edaecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-06-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-01"
+            }
+          },
+          {
+            "id": "8c5369d2c4c3632b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-06-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-03"
+            }
+          },
+          {
+            "id": "75cf4a60c276f9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-06-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-08"
+            }
+          },
+          {
+            "id": "0cf04d566e7acd46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-06-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-15"
+            }
+          },
+          {
+            "id": "ae2d8fdad2512318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-06-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-10"
+            }
+          },
+          {
+            "id": "9329194325ca04b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-06-23.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-23"
+            }
+          },
+          {
+            "id": "0c1c17190326868b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-07-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-01"
+            }
+          },
+          {
+            "id": "7e99f4d0f44b6ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00Daily/2026-07-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-08"
+            }
+          },
+          {
+            "id": "334628b0f924b844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "70Draft/中国/结尾.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "结尾"
             }
           }
-        ]
+        ],
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -215,34 +864,35 @@
       "zhihu:Open Zhihu side view": false
     }
   },
-  "active": "982f8a13c08186d7",
+  "active": "334628b0f924b844",
   "lastOpenFiles": [
-    "00Inbox/00：目录.md",
-    "00Inbox/断裂的镜像.md",
-    "00Daily/2026-04-09.md",
-    "00Inbox/寻菁记2.md",
-    "00Inbox/算学与词章.md",
-    "00Daily/2026-04-19.md",
-    "00Inbox/寻菁记.md",
-    "20Areas/R/L2：转换数据 (Transforming Data).md",
-    "20Areas/R/00：目录 (Table of Contents).md",
-    "00Inbox/D哥传.md",
-    "00Daily/2026-04-17.md",
-    "00Inbox/有若考.md",
-    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/第三部分 研究方法篇.md",
-    "00Inbox/与菁的第一次长谈.md",
-    "00Daily/2026-04-10.md",
-    "00Inbox/薛平贵别传.md",
-    "00Inbox/长安与五道口.md",
-    "00Inbox/未命名 5.md",
-    "00Daily/2026-04-20.md",
-    "00Inbox/证明自己不是AI.md",
-    "00Inbox/一个人独立思考时，需要与他人一起思考吗.md",
-    "00Daily/2026-04-21.md",
-    "00Daily/2026-04-22.md",
-    "00Daily/2026-04-25.md",
-    "00Daily/2026-04-27.md",
-    "00Inbox/HPP茶叶类行业.md",
+    "70Draft/中国/结尾.md",
+    "70Draft/中国/第十三章 第三节.md",
+    "70Draft/中国/原始大纲.md",
+    "70Draft/中国/全书框架与分章大纲.md",
+    "70Draft/中国/序言：一个问题的六十年.md",
+    "00Inbox/中国之.md",
+    "70Draft/中国",
+    "00Daily/2026-07-08.md",
+    "00Inbox/奇绩书稿.md",
+    "00Daily/2026-07-01.md",
+    "00Inbox/Ramsey Model.md",
+    "00Daily/2026-06-23.md",
+    "00Inbox/jll的keeta.md",
+    "00Daily/2026-06-15.md",
+    "00Inbox/wxw简历.md",
+    "00Daily/2026-06-11.md",
+    "00Inbox/高考数学压轴.md",
+    "00Daily/2026-06-10.md",
+    "00Inbox/未命名 6.md",
+    "00Daily/2026-06-08.md",
+    "00Daily/2026-06-03.md",
+    "00Inbox/未命名 4.md",
+    "00Daily/2026-06-01.md",
+    "00Inbox/未命名 1.md",
+    "00Inbox/麦穗问题.md",
+    "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/第一部分 行研框架篇.md",
+    "00Daily/2026-05-30.md",
     "00Inbox/断裂的镜像",
     "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102020OilAndGasExplorationAndProduction",
     "20Industry/10Energy/1010Energy/101010EnergyEquipmentAndServices/10101020OilAndGasEquipmentAndServices",
@@ -252,7 +902,6 @@
     "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102030OilAndGasRefiningAndMarketing",
     "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels/10102010IntegratedOilAndGas",
     "20Industry/10Energy/1010Energy/101010EnergyEquipmentAndServices",
-    "20Industry/10Energy/1010Energy/101020OilGasAndConsumableFuels",
     "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_226.jpg",
     "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_218.jpg",
     "80Boooks/如何快速了解一个行业 (肖璟) (z-library.sk, 1lib.sk, z-lib.sk)/images/image_225.jpg",
